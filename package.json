@@ -1,9 +1,9 @@
 {
-  "name": "Redux-Simple-Starter-Kit",
+  "name": "Redux-Starter-Kit",
   "version": "1.0.0",
-  "description": "Simple React Redux shell for creating awesome apps",
+  "description": "React Redux shell for creating awesome apps",
     "main": "index.js",
-  "repository": "git@github.com:amarkatechia/Redux-Simple-Starter-Kit.git",
+  "repository": "git@github.com:amarkatechia/Redux-Starter-Kit.git",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",

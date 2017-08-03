@@ -1,2 +1,2 @@
-# Redux-Simple-Starter-Kit
-Simple React Redux shell for creating awesome apps
+# Redux-Starter-Kit
+React Redux shell for creating awesome apps
